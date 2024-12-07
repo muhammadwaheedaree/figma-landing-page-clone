@@ -4,7 +4,7 @@ A stylish and modern e-commerce landing page built to match a Figma design. This
 
 ## 🌐 Live Demo
 
-[🔗 View the live site on Vercel](https://e-commerce-app-ten-peach.vercel.app/)
+[🔗 View the live site on Vercel](https://fashion-ecommerce-landing-page.vercel.app/)
 
 ## ✨ Features
 
